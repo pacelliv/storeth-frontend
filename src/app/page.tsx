@@ -16,7 +16,7 @@ const Home = () => {
                 </Link>
                 <a
                     className="rounded-full bg-neutral-300 px-6 py-3 text-base font-normal text-zinc-950 backdrop-blur-sm hover:bg-neutral-300/80 sm:px-8 dark:bg-zinc-700 dark:text-white dark:hover:bg-zinc-700/90"
-                    href="https://github.com/pacelliv/storeth/"
+                    href="https://github.com/pacelliv/storeth-frontend"
                     target="_blank"
                 >
                     Learn how it&apos;s built

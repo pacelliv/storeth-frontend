@@ -9,7 +9,7 @@ const Footer = () => {
             </p>
             <a
                 className="flex cursor-pointer items-center gap-2 rounded-full border border-zinc-400 bg-zinc-500/20 px-4 py-2 text-sm font-normal text-slate-900 backdrop-blur-sm hover:bg-zinc-700/20 dark:bg-zinc-400 dark:hover:bg-white/20"
-                href="https://github.com/pacelliv/storeth/"
+                href="https://github.com/pacelliv/storeth-frontend"
                 target="_blank"
             >
                 <FaGithub size={20} /> Star on GitHub
